@@ -1,0 +1,13 @@
+pwd  - prints current working directory
+whoami - prints the name of the current system user.
+cd  - Navigates to the home directory(~).
+cd .. - Navigate one directory step back.
+ls   - list files
+ls -l -long listing
+ls -a  - list all files even hidden files
+cp - copy a file e.g cp mytext /home/Desktop
+mv - moves a file or renames a file
+rm -removes a file
+mkdir - creates a directory
+rmdir - removes a directory
+
