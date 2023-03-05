@@ -11,3 +11,15 @@ rm -removes a file
 mkdir - creates a directory
 rmdir - removes a directory
 
+
+NETWORK COMMANDS
+ping hostname/ip adrress
+ifconfig  - used to check network and ip addresses of both the ethernet and wireless network card
+iwconfig -  used to check the network status and Ip address of a wireless card
+ssh hostname/ip address - command line remote desktop connection
+telnet hostname/ip address - GUI remote desktop connectivity
+finger hostname/ip address  -  Is used to check the users currently login in a server.
+
+
+
+
